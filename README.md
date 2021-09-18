@@ -3,8 +3,6 @@
 pkgdown.yaml
 =============
 
-# Workflow derived from https://github.com/r-lib/actions/tree/master/examples
-# Need help debugging build failures? Start at https://github.com/r-lib/actions#where-to-find-help
 on:
   push:
     branches: [main, master]
